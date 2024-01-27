@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Shailesh103/tiktaktoe.git/static/css/main.82f03720.css",
-    "main.js": "/Shailesh103/tiktaktoe.git/static/js/main.525280c1.js",
-    "static/js/787.f780c91b.chunk.js": "/Shailesh103/tiktaktoe.git/static/js/787.f780c91b.chunk.js",
-    "index.html": "/Shailesh103/tiktaktoe.git/index.html",
-    "main.82f03720.css.map": "/Shailesh103/tiktaktoe.git/static/css/main.82f03720.css.map",
-    "main.525280c1.js.map": "/Shailesh103/tiktaktoe.git/static/js/main.525280c1.js.map",
-    "787.f780c91b.chunk.js.map": "/Shailesh103/tiktaktoe.git/static/js/787.f780c91b.chunk.js.map"
+    "main.css": "/tiktaktoe/static/css/main.82f03720.css",
+    "main.js": "/tiktaktoe/static/js/main.cb42eca6.js",
+    "static/js/787.f780c91b.chunk.js": "/tiktaktoe/static/js/787.f780c91b.chunk.js",
+    "index.html": "/tiktaktoe/index.html",
+    "main.82f03720.css.map": "/tiktaktoe/static/css/main.82f03720.css.map",
+    "main.cb42eca6.js.map": "/tiktaktoe/static/js/main.cb42eca6.js.map",
+    "787.f780c91b.chunk.js.map": "/tiktaktoe/static/js/787.f780c91b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82f03720.css",
-    "static/js/main.525280c1.js"
+    "static/js/main.cb42eca6.js"
   ]
 }
